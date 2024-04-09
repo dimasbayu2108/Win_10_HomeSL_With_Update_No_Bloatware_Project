@@ -3,9 +3,9 @@
 project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 10 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah.
 
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/9
-- link untuk mengunduh instalasi windows 10 bisa mengakses ini: 
+- link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://tinyurl.com/ync8epkt
 
-# Windows 10 Home Single Language Version 22H2 Update September 2023 Build 19045.3448 (modified by dimas bayu)
+# Windows 10 Home Single Language Version 22H2 Update Januari 2024 Build 19045.4046 (modified by dimas bayu)
 
 - Details: en-us_windows_10_homesl_nobloatware_version_22h2_x64_updated_februari_2024.iso
 - Build: 19045.4046
@@ -92,9 +92,9 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft WebpImageExtension
 - Microsoft Windows Store
 
-# Changelog settings windows 10 version 22h2 update september 2023:
+# Changelog settings windows 10 version 22h2 update januari 2024:
 - disable autoplay
-- disable quick access
+- enable quick access
 - enable windows photo viewer
 - enable display delete confirmation dialogue
 - disable fast startup
@@ -127,6 +127,8 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 -
 
 # Screenshoot:
+![Virtual_Machine_2-2023-09-24-23-36-26](https://github.com/dimasbayu2108/Win_10_and_11_HomeSL_With_Update_No_Bloatware_Project/assets/48012187/814c168c-6226-4d57-8182-dcaf80e471ed)
+![Virtual_Machine_2-2023-09-24-23-35-53](https://github.com/dimasbayu2108/Win_10_and_11_HomeSL_With_Update_No_Bloatware_Project/assets/48012187/aba60b7b-ef2c-45de-a1f5-0cce49647ded)
 
 
 
