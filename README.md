@@ -3,16 +3,16 @@
 project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 10 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah.
 
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/9
-- link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://lynk.id/baydimlabproject/2q39w7Q
+- link untuk mengunduh instalasi windows 10 bisa mengakses ini: 
 
 # Windows 10 Home Single Language Version 22H2 Update September 2023 Build 19045.3448 (modified by dimas bayu)
 
-- Details: en-us_windows_10_homesl_nobloatware_version_22h2_x64_updated_september_2023.iso
-- Build: 19045.3448
+- Details: en-us_windows_10_homesl_nobloatware_version_22h2_x64_updated_februari_2024.iso
+- Build: 19045.4046
 - Edition: CoreSingleLanguage
-- Size: 3,73 GB
-- MD5: f114aa75d5d8dc66e2b0e3f7ec7b2624
-- SHA1: 49cf9f6f3907fffc5f288ab0d98d35e8454af3c7
+- Size: 3,90 GB
+- MD5: 26c76607dea99ccb9f2a3b972b5bb0d8
+- SHA1: 464e7067b202347040f08a5cb55f785bc1250078
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
@@ -27,10 +27,10 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Net Framework 4.8.1
 
 # Update or Package Incluced:
-- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9186.2 (https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2023-security-and-quality-rollup-updates/)
-- Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3448.1.5 (https://support.microsoft.com/en-us/topic/september-12-2023-kb5030211-os-builds-19044-3448-and-19045-3448-c0dee353-f025-4f03-bcc1-336f74fb992c)
-- Package_for_ServicingStack_3385~31bf3856ad364e35~amd64~~19041.3385.1.0 (https://support.microsoft.com/en-us/topic/september-12-2023-kb5030211-os-builds-19044-3448-and-19045-3448-c0dee353-f025-4f03-bcc1-336f74fb992c)
-- Package_for_KB5011048~31bf3856ad364e35~amd64~~10.0.9186.1 (https://support.microsoft.com/en-gb/topic/microsoft-net-framework-4-8-1-for-windows-10-version-21h2-windows-10-version-22h2-windows-11-version-21h2-windows-server-2022-desktop-azure-editions-azure-stack-21h2-and-azure-stack-22h2-kb5011048-277f9c30-7add-4150-b774-5e3667e02256)
+- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9220.2 (https://support.microsoft.com/en-gb/topic/february-13-2024-kb5034466-cumulative-update-for-net-framework-3-5-and-4-8-1-for-windows-10-version-22h2-6d907dfb-c559-4333-8214-8d7a35e939e9)
+- Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.4046.1.11 (https://support.microsoft.com/en-us/topic/february-13-2024-kb5034763-os-builds-19044-4046-and-19045-4046-f1c993e4-32b3-4cc8-947a-69e70ae124d5)
+- Package_for_ServicingStack_3989~31bf3856ad364e35~amd64~~19041.3989.1.2 (https://support.microsoft.com/en-us/topic/february-13-2024-kb5034763-os-builds-19044-4046-and-19045-4046-f1c993e4-32b3-4cc8-947a-69e70ae124d5
+- Package_for_KB5015684~31bf3856ad364e35~amd64~~19041.1799.1.2 (https://support.microsoft.com/en-us/topic/kb5015684-featured-update-to-windows-10-version-22h2-by-using-an-enablement-package-09d43632-f438-47b5-985e-d6fd704eee61)
 
 # Tool For Modify
 - DISM
@@ -127,7 +127,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 -
 
 # Screenshoot:
-![Virtual_Machine_2-2023-09-24-23-35-53](https://github.com/dimasbayu2108/Win_10_and_11_HomeSL_With_Update_No_Bloatware_Project/assets/48012187/08a7fa15-9ae9-44cd-a60c-395f9b71eb1a)
+
 
 
 
