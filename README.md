@@ -104,7 +104,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Windows Backup
 - Microsoft Screen Sketch (Snipping Tool)
 
-# Changelog settings windows 11 version 22h2 update januari 2023:
+# Changelog settings Windows 11 Version 23H2 Update Agustus 2024:
 - disable autoplay
 - enable windows photo viewer
 - disable fast startup
