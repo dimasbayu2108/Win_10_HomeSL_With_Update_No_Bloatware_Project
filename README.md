@@ -3,16 +3,16 @@
 project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 11 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah. selain itu juga dapat berjalan pada perangkat yang tidak mendukung windows 11
 
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/10
-- link untuk mengunduh instalasi windows 11 bisa mengakses ini: https://lynk.id/baydimlabproject/zpdy5xL
+- link untuk mengunduh instalasi windows 11 bisa mengakses ini: 
 
 # Windows 11 Home Single Language Version 23H2 Update Januari 2024 Build 22631.3085 (modified by dimas bayu) 
 
-- Details: en-us_windows_11_homesl_nobloatware_version_23h2_x64_updated_januari_2024_bypass.iso
-- Build: 22631.3085
+- Details: 
+- Build: 
 - Edition: CoreSingleLanguage
-- Size: 4,38 GB
-- MD5: 90371b169b6165004d5cfa32d8ce7fe8
-- SHA1: 1a82000434f6c372cc380987b9d95345364e56f5
+- Size: 
+- MD5: 
+- SHA1: 
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
@@ -25,10 +25,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Net Framework 3.5
 
 # Update or Package Included:
-- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9220.5 (https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-cumulative-update-preview/)
-- Package_for_RollupFix~31bf3856ad364e35~amd64~~22621.3085.1.19 (https://support.microsoft.com/en-au/topic/january-23-2024-kb5034204-os-builds-22621-3085-and-22631-3085-preview-7652acf2-56dc-430e-b8ef-ec8f56ec1028)
-- Package_for_ServicingStack_3073~31bf3856ad364e35~amd64~~22621.3073.1.2 (https://support.microsoft.com/en-au/topic/january-23-2024-kb5034204-os-builds-22621-3085-and-22631-3085-preview-7652acf2-56dc-430e-b8ef-ec8f56ec1028)
-- Package_for_KB5027397~31bf3856ad364e35~amd64~~22621.2355.1.1 (https://support.microsoft.com/en-us/topic/kb5027397-feature-update-to-windows-11-version-23h2-by-using-an-enablement-package-b9e76726-3c94-40de-b40b-99decba3db9d)
+- 
 
 # Tool For Modify
 - DISM
