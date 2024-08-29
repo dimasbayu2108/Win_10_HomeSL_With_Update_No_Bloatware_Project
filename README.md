@@ -3,7 +3,7 @@
 project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 10 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah.
 
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/9
-- link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://tinyurl.com/ync8epkt
+- link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://lynk.id/baydimlabproject/WlJPaZb
 
 # Windows 10 Home Single Language Version 22H2 Update Februari 2024 Build 19045.4046 (modified by dimas bayu)
 
@@ -124,7 +124,6 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 # Reference
 - https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-22h2
 - https://blogs.windows.com/windowsexperience/2022/10/18/how-to-get-the-windows-10-2022-update/
--
 
 # Screenshoot:
 ![Virtual_Machine_2-2023-09-24-23-36-26](https://github.com/dimasbayu2108/Win_10_and_11_HomeSL_With_Update_No_Bloatware_Project/assets/48012187/814c168c-6226-4d57-8182-dcaf80e471ed)
