@@ -37,27 +37,20 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - NTLite
 
 # Windows Apps Removed:
-- Microsoft Advertising
 - Clip Champ
 - Cortana
-- MSN Weather
-- MSN News
-- Gaming App
+- Feedback Hub
 - Get Help
-- Microsoft 3D Viewer
+- MSN News
+- MSN Weather
 - Microsoft Office Hub
 - Microsoft Solitaire Collection
 - Sticky Notes
-- Mixed Reality Portal
 - Microsoft Paint
-- Microsoft OneNote
-- Microsoft People
-- Microsoft Power Automate Desktop
-- Microsoft ToDos
-- Microsoft Skype App
-- Microsoft Wallet
+- Microsoft Power Automate
+- Microsoft To Do
 - Windows Photos
-- Windows Alarms
+- Windows Clock
 - Windows Calculator
 - Windows Camera
 - Windows Mail
@@ -67,17 +60,16 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Windows Terminal
 - Xbox TCUI
 - Xbox App
-- Xbox Game Overlay
-- Xbox Gaming Overlay
+- Xbox Game Bar Plugin
+- Xbox Game Bar
 - Xbox Identity Provider
-- Xbox Speech To Text Overlay
+- Xbox Game Speech Window
 - Microsoft Your Phone
 - Groove Music
 - Movies & TV 
-- Quick Assist
-- Movies & TV
-- Microsoft family
-- Microsoft Client Web Experience
+- Microsoft Family
+- Microsoft Quick Assist
+- Microsoft Web Experience Pack
 
 # Windows Apps Keep Installed:
 - Microsoft Desktop App Installer
@@ -102,7 +94,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft Windows Store
 - Get Started
 - Windows Backup
-- Microsoft Screen Sketch (Snipping Tool)
+- Snipping Tool
 
 # Changelog settings Windows 11 Version 23H2 Update Agustus 2024:
 - disable autoplay
