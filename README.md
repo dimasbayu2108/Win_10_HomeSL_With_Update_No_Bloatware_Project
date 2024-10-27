@@ -25,7 +25,9 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Net Framework 3.5
 
 # Update or Package Included:
-- 
+- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9266.1
+- Package_for_RollupFix~31bf3856ad364e35~amd64~~26100.1742.1.10 (https://support.microsoft.com/en-us/topic/september-10-2024-kb5043080-os-build-26100-1742-407666c8-6b6d-4561-a982-abce4e7c2efb)
+- Package_for_ServicingStack_1738~31bf3856ad364e35~amd64~~26100.1738.1.3 (https://support.microsoft.com/en-us/topic/september-10-2024-kb5043080-os-build-26100-1742-407666c8-6b6d-4561-a982-abce4e7c2efb)
 
 # Tool For Modify
 - DISM
@@ -122,7 +124,12 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - modifikasi ini bisa diaktivasikan dengan lisensi bawaan perangkat selama masih satu edisi. apabila ingin naik edisi ke pro, enterprise, atau education, silahkan memakai kunci produk edisi masing-masing untuk naik edisi sebelum melakukan aktivasi windows
 
 # Reference
-- 
+- https://blogs.windows.com/windowsexperience/2024/10/01/how-to-get-new-experiences-for-windows-11/
+- https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-11-version-24h2-what-s-new-for-it-pros/ba-p/4259108
 
 # Screenshoot:
+![Win_Testing_3-2024-09-18-13-54-12](https://github.com/user-attachments/assets/ff2a6784-5f95-4449-877d-3eaca2b219d7)
+![Win_Testing_3-2024-09-20-18-40-29](https://github.com/user-attachments/assets/d770737d-dc33-440a-9a01-8dd6e5c5ed87)
+
+
 
