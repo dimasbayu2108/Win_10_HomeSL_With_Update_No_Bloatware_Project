@@ -5,14 +5,14 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/9
 - link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://lynk.id/baydimlabproject/WlJPaZb
 
-# Windows 10 Home Single Language Version 22H2 Update September 2024 Build 19045. (modified by dimas bayu)
+# Windows 10 Home Single Language Version 22H2 Update September 2024 Build 19045.4894 (modified by dimas bayu)
 
-- Details: 
-- Build: 
+- Details: en-us_windows_10_homesl_nobloatware_version_22h2_x64_updated_september_2024.iso
+- Build: 19045.4894
 - Edition: CoreSingleLanguage
-- Size: 
-- MD5: 
-- SHA1: 
+- Size: 4.08 GB
+- MD5: 4d0953f657cdaed5121b4921ebfc5404
+- SHA1: df01a8ce3d445382103f8b7c07667f155a82c5d3
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
