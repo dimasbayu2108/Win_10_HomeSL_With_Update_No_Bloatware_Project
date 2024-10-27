@@ -5,7 +5,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/10
 - link untuk mengunduh instalasi windows 11 bisa mengakses ini: https://lynk.id/baydimlabproject/GWyMrrb
 
-# Windows 11 Home Single Language Version 23H2 Update Agustus 2024 Build 22621.4037 (modified by dimas bayu) 
+# Windows 11 Home Single Language Version 24H2 Update September 2024 Build 26100.1742 (modified by dimas bayu) 
 
 - Details: en-us_windows_11_homesl_nobloatware_version_24h2_x64_updated_september_2024_bypass.iso
 - Build: 26100.1742
@@ -94,7 +94,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Windows Backup
 - Snipping Tool
 
-# Changelog settings Windows 11 Version 23H2 Update Agustus 2024:
+# Changelog settings Windows 11 Version 24H2 Update September 2024:
 - disable autoplay
 - enable windows photo viewer
 - disable fast startup
