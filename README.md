@@ -5,7 +5,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/9
 - link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://lynk.id/baydimlabproject/WlJPaZb
 
-# Windows 10 Home Single Language Version 22H2 Update Februari 2024 Build 19045.4046 (modified by dimas bayu)
+# Windows 10 Home Single Language Version 22H2 Update September 2024 Build 19045. (modified by dimas bayu)
 
 - Details: 
 - Build: 
@@ -92,7 +92,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft WebpImageExtension
 - Microsoft Windows Store
 
-# Changelog settings windows 10 version 22h2 update februari 2024:
+# Changelog settings windows 10 version 22h2 update september 2024:
 - disable autoplay
 - enable quick access
 - enable windows photo viewer
