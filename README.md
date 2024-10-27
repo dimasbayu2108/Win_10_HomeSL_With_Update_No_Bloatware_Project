@@ -7,12 +7,12 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 
 # Windows 10 Home Single Language Version 22H2 Update Februari 2024 Build 19045.4046 (modified by dimas bayu)
 
-- Details: en-us_windows_10_homesl_nobloatware_version_22h2_x64_updated_februari_2024.iso
-- Build: 19045.4046
+- Details: 
+- Build: 
 - Edition: CoreSingleLanguage
-- Size: 3,90 GB
-- MD5: 26c76607dea99ccb9f2a3b972b5bb0d8
-- SHA1: 464e7067b202347040f08a5cb55f785bc1250078
+- Size: 
+- MD5: 
+- SHA1: 
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
@@ -27,9 +27,9 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Net Framework 4.8.1
 
 # Update or Package Incluced:
-- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9220.2 (https://support.microsoft.com/en-gb/topic/february-13-2024-kb5034466-cumulative-update-for-net-framework-3-5-and-4-8-1-for-windows-10-version-22h2-6d907dfb-c559-4333-8214-8d7a35e939e9)
-- Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.4046.1.11 (https://support.microsoft.com/en-us/topic/february-13-2024-kb5034763-os-builds-19044-4046-and-19045-4046-f1c993e4-32b3-4cc8-947a-69e70ae124d5)
-- Package_for_ServicingStack_3989~31bf3856ad364e35~amd64~~19041.3989.1.2 (https://support.microsoft.com/en-us/topic/february-13-2024-kb5034763-os-builds-19044-4046-and-19045-4046-f1c993e4-32b3-4cc8-947a-69e70ae124d5
+- 
+- 
+- 
 - Package_for_KB5015684~31bf3856ad364e35~amd64~~19041.1799.1.2 (https://support.microsoft.com/en-us/topic/kb5015684-featured-update-to-windows-10-version-22h2-by-using-an-enablement-package-09d43632-f438-47b5-985e-d6fd704eee61)
 
 # Tool For Modify
@@ -126,8 +126,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - https://blogs.windows.com/windowsexperience/2022/10/18/how-to-get-the-windows-10-2022-update/
 
 # Screenshoot:
-![Virtual_Machine_2-2023-09-24-23-36-26](https://github.com/dimasbayu2108/Win_10_and_11_HomeSL_With_Update_No_Bloatware_Project/assets/48012187/814c168c-6226-4d57-8182-dcaf80e471ed)
-![Virtual_Machine_2-2023-09-24-23-35-53](https://github.com/dimasbayu2108/Win_10_and_11_HomeSL_With_Update_No_Bloatware_Project/assets/48012187/aba60b7b-ef2c-45de-a1f5-0cce49647ded)
+
 
 
 
