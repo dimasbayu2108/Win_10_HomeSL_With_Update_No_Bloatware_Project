@@ -27,9 +27,10 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Net Framework 4.8.1
 
 # Update or Package Incluced:
-- 
-- 
-- 
+- Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.4894.1.9 (https://support.microsoft.com/en-us/topic/september-10-2024-kb5043064-os-builds-19044-4894-and-19045-4894-cd14b547-a3f0-4b8f-b037-4ae3ce83a781)
+- Package_for_ServicingStack_4892~31bf3856ad364e35~amd64~~19041.4892.1.0 (https://support.microsoft.com/en-us/topic/september-10-2024-kb5043064-os-builds-19044-4894-and-19045-4894-cd14b547-a3f0-4b8f-b037-4ae3ce83a781)
+- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9266.2 (https://support.microsoft.com/en-us/topic/august-13-2024-kb5042097-cumulative-update-for-net-framework-3-5-and-4-8-1-for-windows-10-version-21h2-and-windows-10-version-22h2-13503f54-99f0-422d-a6a0-a4d66061ad13)
+- Package_for_KB5011048~31bf3856ad364e35~amd64~~10.0.9186.1 (https://support.microsoft.com/en-us/topic/microsoft-net-framework-4-8-1-for-windows-10-version-21h2-windows-10-version-22h2-windows-11-version-21h2-windows-server-2022-desktop-azure-editions-azure-stack-21h2-and-azure-stack-22h2-kb5011048-277f9c30-7add-4150-b774-5e3667e02256)
 - Package_for_KB5015684~31bf3856ad364e35~amd64~~19041.1799.1.2 (https://support.microsoft.com/en-us/topic/kb5015684-featured-update-to-windows-10-version-22h2-by-using-an-enablement-package-09d43632-f438-47b5-985e-d6fd704eee61)
 
 # Tool For Modify
